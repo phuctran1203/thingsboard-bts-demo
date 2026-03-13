@@ -6,11 +6,11 @@ Can Tho,City Profile,Can Tho,,CT,Can Tho,,,,,,,,,,
 Ha Noi,City Profile,Ha Noi,,HN,Ha Noi,,,,,,,,,,
 Hai Phong,City Profile,Hai Phong,,HP,Ha Noi,,,,,,,,,,
 BTS-HCM-001,BTS Station Profile,BTS Station HCM 001,,,HCM,BTS-HCM-001,Monopole,Outdoor,Grid+Generator,true,90,Active,Gold,10.7769,106.7009
-BTS-HCM-002,BTS Station Profile,BTS Station HCM 002,,,HCM,BTS-HCM-002,Lattice,Rooftop,Grid,false,90,Active,Silver,,
-BTS-HCM-003,BTS Station Profile,BTS Station HCM 003,,,HCM,BTS-HCM-003,Monopole,Indoor,Grid+Generator,true,90,Active,Gold,,
+BTS-HCM-002,BTS Station Profile,BTS Station HCM 002,,,HCM,BTS-HCM-002,Lattice,Rooftop,Grid,false,90,Active,Silver,10.7961,106.6674
+BTS-HCM-003,BTS Station Profile,BTS Station HCM 003,,,HCM,BTS-HCM-003,Monopole,Indoor,Grid+Generator,true,90,Active,Gold,10.7511,106.6631
 BTS-CT-001,BTS Station Profile,BTS Station CT 001,,,CT,BTS-CT-001,Lattice,Outdoor,Grid,false,90,Active,Bronze,10.0333,105.7833
-BTS-CT-002,BTS Station Profile,BTS Station CT 002,,,CT,BTS-CT-002,Monopole,Outdoor,Grid+Generator,true,90,Active,Silver,,
+BTS-CT-002,BTS Station Profile,BTS Station CT 002,,,CT,BTS-CT-002,Monopole,Outdoor,Grid+Generator,true,90,Active,Silver,10.0450,105.7460
 BTS-HN-001,BTS Station Profile,BTS Station HN 001,,,HN,BTS-HN-001,Lattice,Outdoor,Grid+Generator,true,90,Active,Gold,21.0285,105.8542
-BTS-HN-002,BTS Station Profile,BTS Station HN 002,,,HN,BTS-HN-002,Monopole,Rooftop,Grid,false,90,Active,Silver,,
-BTS-HN-003,BTS Station Profile,BTS Station HN 003,,,HN,BTS-HN-003,Lattice,Indoor,Grid+Generator,true,90,Active,Gold,,
+BTS-HN-002,BTS Station Profile,BTS Station HN 002,,,HN,BTS-HN-002,Monopole,Rooftop,Grid,false,90,Active,Silver,21.0112,105.8123
+BTS-HN-003,BTS Station Profile,BTS Station HN 003,,,HN,BTS-HN-003,Lattice,Indoor,Grid+Generator,true,90,Active,Gold,21.0365,105.7831
 BTS-HP-001,BTS Station Profile,BTS Station HP 001,,,HP,BTS-HP-001,Monopole,Outdoor,Grid,false,90,Active,Bronze,20.8449,106.6881

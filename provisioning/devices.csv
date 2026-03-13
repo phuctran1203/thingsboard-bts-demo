@@ -6,13 +6,16 @@ ES-HCM-001,Environment Sensor Profile,Environment Sensor HCM 001,ES-HCM-001_TOKE
 PM-HCM-002,Power Meter Profile,Power Meter HCM 002,PM-HCM-002_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-HCM-002,Temperature Sensor Profile,Temperature Sensor HCM 002,TS-HCM-002_TOKEN,SHT31,v1.0,,,,,Cabinet A
 DS-HCM-002,Door Sensor Profile,Door Sensor HCM 002,DS-HCM-002_TOKEN,Generic Magnetic,v1.0,,,,,Main Door
+ES-HCM-002,Environment Sensor Profile,Environment Sensor HCM 002,ES-HCM-002_TOKEN,BME680,v2.1,,,,,
 PM-HCM-003,Power Meter Profile,Power Meter HCM 003,PM-HCM-003_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-HCM-003,Temperature Sensor Profile,Temperature Sensor HCM 003,TS-HCM-003_TOKEN,DS18B20,v1.0,,,,,Cabinet B
 DS-HCM-003,Door Sensor Profile,Door Sensor HCM 003,DS-HCM-003_TOKEN,Generic Magnetic,v1.0,,,,,Cabinet B
+ES-HCM-003,Environment Sensor Profile,Environment Sensor HCM 003,ES-HCM-003_TOKEN,BME680,v2.1,,,,,
 GE-HCM-003,Generator Monitor Profile,Generator Monitor HCM 003,GE-HCM-003_TOKEN,Cummins C150D5,v3.4,,,500,150,
 PM-CT-001,Power Meter Profile,Power Meter CT 001,PM-CT-001_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-CT-001,Temperature Sensor Profile,Temperature Sensor CT 001,TS-CT-001_TOKEN,DS18B20,v1.0,,,,,Cabinet A
 DS-CT-001,Door Sensor Profile,Door Sensor CT 001,DS-CT-001_TOKEN,Generic Magnetic,v1.0,,,,,Main Door
+ES-CT-001,Environment Sensor Profile,Environment Sensor CT 001,ES-CT-001_TOKEN,BME680,v2.1,,,,,
 PM-CT-002,Power Meter Profile,Power Meter CT 002,PM-CT-002_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-CT-002,Temperature Sensor Profile,Temperature Sensor CT 002,TS-CT-002_TOKEN,SHT31,v1.0,,,,,Cabinet A
 DS-CT-002,Door Sensor Profile,Door Sensor CT 002,DS-CT-002_TOKEN,Generic Magnetic,v1.0,,,,,Main Door
@@ -24,10 +27,13 @@ ES-HN-001,Environment Sensor Profile,Environment Sensor HN 001,ES-HN-001_TOKEN,B
 PM-HN-002,Power Meter Profile,Power Meter HN 002,PM-HN-002_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-HN-002,Temperature Sensor Profile,Temperature Sensor HN 002,TS-HN-002_TOKEN,SHT31,v1.0,,,,,Cabinet A
 DS-HN-002,Door Sensor Profile,Door Sensor HN 002,DS-HN-002_TOKEN,Generic Magnetic,v1.0,,,,,Main Door
+ES-HN-002,Environment Sensor Profile,Environment Sensor HN 002,ES-HN-002_TOKEN,BME680,v2.1,,,,,
 PM-HN-003,Power Meter Profile,Power Meter HN 003,PM-HN-003_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-HN-003,Temperature Sensor Profile,Temperature Sensor HN 003,TS-HN-003_TOKEN,DS18B20,v1.0,,,,,Cabinet B
 DS-HN-003,Door Sensor Profile,Door Sensor HN 003,DS-HN-003_TOKEN,Generic Magnetic,v1.0,,,,,Cabinet B
+ES-HN-003,Environment Sensor Profile,Environment Sensor HN 003,ES-HN-003_TOKEN,BME680,v2.1,,,,,
 GE-HN-003,Generator Monitor Profile,Generator Monitor HN 003,GE-HN-003_TOKEN,Cummins C150D5,v3.4,,,500,150,
 PM-HP-001,Power Meter Profile,Power Meter HP 001,PM-HP-001_TOKEN,Eastron SDM630,v1.2,250,100,,,
 TS-HP-001,Temperature Sensor Profile,Temperature Sensor HP 001,TS-HP-001_TOKEN,DS18B20,v1.0,,,,,Cabinet A
 DS-HP-001,Door Sensor Profile,Door Sensor HP 001,DS-HP-001_TOKEN,Generic Magnetic,v1.0,,,,,Main Door
+ES-HP-001,Environment Sensor Profile,Environment Sensor HP 001,ES-HP-001_TOKEN,BME680,v2.1,,,,,
